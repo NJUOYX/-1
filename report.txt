@@ -1,0 +1,10 @@
+id:100000-----------------
+avarange: 4 hours,24 minutes
+late: 3 times
+early: 3 times
+lack of duty: 2 times
+id:123456-----------------
+avarange: 0 hours,0 minutes
+late: 5 times
+early: 5 times
+lack of duty: 5 times
